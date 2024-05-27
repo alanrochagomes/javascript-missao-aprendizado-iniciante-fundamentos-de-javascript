@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Projeto da Missão de Aprendizado do nível Iniciante: Fundamentos de JavaScript.",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "start": "node .",
     "dev": "nodemon ."
